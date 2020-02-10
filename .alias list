@@ -1,0 +1,6 @@
+# list of all custom bash aliases
+
+r = ranger
+cdi = vim .config/i3/config
+p = sudo pacman
+cls = clear 
